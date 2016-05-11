@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "johng-sage",
+    "repo": "Spoon-Knife",
+    "branch": "master",
+    "model": "Test"
+  }
+}
